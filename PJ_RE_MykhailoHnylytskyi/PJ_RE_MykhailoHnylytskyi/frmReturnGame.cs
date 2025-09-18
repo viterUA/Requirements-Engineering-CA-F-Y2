@@ -1,0 +1,143 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace PJ_RE_MykhailoHnylytskyi
+{
+    public partial class frmReturnGame : Form
+    {
+        frmMainMenu parent;
+        public frmReturnGame()
+        {
+            InitializeComponent();
+        }
+        public frmReturnGame(frmMainMenu parent)
+        {
+            InitializeComponent();
+            this.parent = parent;
+        }
+
+        private void backToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            parent.Visible = true;
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DialogResult dialog = MessageBox.Show("Are you sure?", "Confirm",
+               MessageBoxButtons.YesNo,
+               MessageBoxIcon.Question);
+
+
+            if (dialog == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+        }
+
+        private void btnReturnGame_Click(object sender, EventArgs e)
+        {
+            if (txtFirstName.Text.Equals(""))
+            {
+                MessageBox.Show("First Name Must be entered", "Error",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+
+                txtFirstName.Focus();
+
+                return;
+            }
+
+            if (Int32.TryParse(txtFirstName.Text, out int number))
+            {
+                MessageBox.Show("First Name Must not be numeric",
+                    "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                txtFirstName.Clear();
+
+                txtFirstName.Focus();
+
+                return;
+            }
+
+            if (txtLastName.Text.Equals(""))
+            {
+                MessageBox.Show("Last Name Must be entered", "Error",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+
+                txtLastName.Focus();
+
+                return;
+            }
+
+            if (Int32.TryParse(txtLastName.Text, out int num))
+            {
+                MessageBox.Show("Last Name Must not be numeric",
+                    "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                txtLastName.Clear();
+
+                txtLastName.Focus();
+
+                return;
+            }
+
+            if (txtPhoneNO.Text.Equals(""))
+            {
+                MessageBox.Show("Phone Number Must be entered", "Error",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Error);
+
+                txtPhoneNO.Focus();
+
+                return;
+            }
+
+            if (!Int32.TryParse(txtPhoneNO.Text, out int phone))
+            {
+                MessageBox.Show("Phone Number Must be numeric",
+                    "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                txtPhoneNO.Clear();
+
+                txtPhoneNO.Focus();
+
+                return;
+            }
+
+            if (txtEmail.Text.Equals("") || !txtEmail.Text.Contains("@") || !txtEmail.Text.Contains("."))
+            {
+                MessageBox.Show("Invalid email format.", "Error",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error);
+
+                txtEmail.Clear();
+
+                txtEmail.Focus();
+
+                return;
+            }
+
+
+            MessageBox.Show("Your request is in progres, we will return your money within 4-5 working days", "Success", MessageBoxButtons.OK,
+                MessageBoxIcon.Information);
+
+            txtFirstName.Clear();
+            txtLastName.Clear();
+            txtPhoneNO.Clear();
+            txtEmail.Clear();
+            txtFirstName.Focus();
+        }
+    }
+}

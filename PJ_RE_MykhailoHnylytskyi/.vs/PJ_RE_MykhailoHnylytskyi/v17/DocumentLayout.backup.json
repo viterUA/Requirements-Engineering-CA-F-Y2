@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|c:\\users\\studentmykhailohnyly\\desktop\\ca final\\pj_re_mykhailohnylytskyi\\pj_re_mykhailohnylytskyi\\frmshowyearlyrevenueanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmshowyearlyrevenueanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|c:\\users\\studentmykhailohnyly\\desktop\\ca final\\pj_re_mykhailohnylytskyi\\pj_re_mykhailohnylytskyi\\frmshowyearlyrevenueanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmshowyearlyrevenueanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|c:\\users\\studentmykhailohnyly\\desktop\\ca final\\pj_re_mykhailohnylytskyi\\pj_re_mykhailohnylytskyi\\frmaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|c:\\users\\studentmykhailohnyly\\desktop\\ca final\\pj_re_mykhailohnylytskyi\\pj_re_mykhailohnylytskyi\\frmaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmaddgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\pj_re_mykhailohnylytskyi\\frmupdategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmupdategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\pj_re_mykhailohnylytskyi\\frmupdategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F771AC94-527A-4A92-8DE3-FF3660F2AEF1}|PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi.csproj|solutionrelative:pj_re_mykhailohnylytskyi\\frmupdategame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 486,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmShowYearlyRevenueAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "ToolTip": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "RelativeToolTip": "PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:59:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmShowYearlyRevenueAnalysis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs",
+              "ToolTip": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs [Design]",
+              "RelativeToolTip": "PJ_RE_MykhailoHnylytskyi\\frmShowYearlyRevenueAnalysis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:59:45.616Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "ToolTip": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs [Design]",
+              "RelativeToolTip": "PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:38:16.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmUpdateGame.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "ToolTip": "C:\\Users\\mixah\\Desktop\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\mixah\\Desktop\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:44:03.453Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddGame.cs",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "ToolTip": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "RelativeToolTip": "PJ_RE_MykhailoHnylytskyi\\frmAddGame.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswHIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:58:33.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmUpdateGame.cs",
+              "DocumentMoniker": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "RelativeDocumentMoniker": "PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "ToolTip": "C:\\Users\\StudentMykhailoHnyly\\Desktop\\CA FINAL\\PJ_RE_MykhailoHnylytskyi\\PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "RelativeToolTip": "PJ_RE_MykhailoHnylytskyi\\frmUpdateGame.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:39:15.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
